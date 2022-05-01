@@ -14,4 +14,4 @@
 
 ## [**Easy problems**](/Easy)
 
-- [**Backspace String Compare**](Easy/Backspace%20String%20Compare)
+- [**Backspace String Compare**](./Easy/Backspace%20String%20Compare)
