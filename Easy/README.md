@@ -3,4 +3,4 @@
   <h1>Easy problems</h1>
 </div>
 
-- ### [**Backspace String Compare**](/Backspace%20String%20Compare)
+- ### [**Backspace String Compare**](./Backspace%20String%20Compare)
